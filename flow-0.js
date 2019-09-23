@@ -9,3 +9,6 @@ What is type script ? 3 min
 
 
 14 min 
+----------------
+
+In which kind of Allication we can involve typescript ? 2 min
